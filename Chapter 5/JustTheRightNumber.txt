@@ -1,0 +1,5 @@
+#Python for Kids Chapter 5 Challenge #3
+
+money = 300
+
+if money > 100 and money
