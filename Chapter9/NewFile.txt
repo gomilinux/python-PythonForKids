@@ -1,0 +1,4 @@
+This is the copy file!
+Ok, so let's put some more lines in this to test.
+So this is the third line.
+And the fourth...

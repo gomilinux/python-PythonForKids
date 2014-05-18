@@ -10,4 +10,3 @@ for x in range(1,16):
 	print("Year %s" % x + " = " + str(new_weight))
 	
 print (155+14)*0.165
-
