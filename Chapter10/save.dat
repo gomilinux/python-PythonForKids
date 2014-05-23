@@ -1,0 +1,27 @@
+(dp0
+S'money'
+p1
+F158.5
+sS'backpack'
+p2
+(lp3
+S'rope'
+p4
+aS'hammer'
+p5
+aS'apple'
+p6
+asS'player postion'
+p7
+S'N23 E45'
+p8
+sS'pockets'
+p9
+(lp10
+S'keys'
+p11
+aS'pocket knife'
+p12
+aS'polished stone'
+p13
+as.
